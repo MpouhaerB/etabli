@@ -2,4 +2,4 @@ matplotlib==3.5.2
 pandas==1.4.4
 seaborn==0.11.2
 numpy==1.23.5
-strealit==1.22.0
+strealit
